@@ -1,2 +1,2 @@
-FROM hshar/webpp
+FROM hshar/website
 ADD . /var/www/html
